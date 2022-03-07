@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @BearPooP
+-           Just a mere raw vegetable.
+- 
+- 👀 I’m interested in:
+-           Solidity, Python, JavaScript, C++, all kinds of frameworks and APIs.. And Web3
+- 
+- 🌱 I’m currently learning all of those mentioned above. 
+-           My main focus has been Python lately,
+-           but constantly making progress torwards to JS and Solidity, and all related
+- 
+- 💞️ I’m looking to collaborate on:
+-           (Maybe later)
+- 
+- 📫 How to reach me:
+-           (Not relevant at the moment)
+
